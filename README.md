@@ -1,10 +1,9 @@
-# Information about author
+# Technical Test - what3words
+Emergency Reporting service for what3words technical test.
+
   * Author: Gustavo Ayrton Bitocchi
   * Email: gustavoabitocchi@gmail.com
   * Mobile phone: +5491140653465
-
-# Technical Test - what3words
-Emergency Reporting service for what3words technical test.
 
 ## Environment properties
   * Java v17
